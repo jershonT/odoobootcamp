@@ -1,0 +1,2 @@
+# odoobootcamp
+Bootcamp odoo project
